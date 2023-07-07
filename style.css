@@ -1,0 +1,14 @@
+body {
+    background-color: #ea3d7c;
+    color: #fff;
+    font-family: Montserrat, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+
+  .container {
+    max-width: 500px;
+    text-align: center;
+  }
